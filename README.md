@@ -1,28 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kashif Ahmad</h1>
-<h3 align="center">As a Full Stack Developer with around 2 years of experience in the FMCG sector, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.</h3>
+# About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kash15if" alt="kash15if" /></a> </p>
+[![GitHub](https://img.shields.io/badge/GitHub-%40kash15if-239a3b.svg)](https://github.com/kash15if)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%40kash15if.svg)](https://www.linkedin.com/in/kash15if)
 
-- 🔭 I’m currently working on [Custom Components](https://custom-components.kashif.world/)
+Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Developer with around 2 years of experience in the FMCG sector, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.
 
-- 🌱 I’m currently learning **Next.js, Deno, Spring Boot and DevOps tool like docker k8s and Ansible**
+## My Experience
 
-- 👨‍💻 All of my projects are available at [https://portfolio.kashif.world/](https://portfolio.kashif.world/)
+### Software Developer
 
-- 💬 Ask me about **React, Vue ,Node and SQL**
+**[July 2022]**
 
-- 📫 How to reach me **kash151if@gmail.com**
+- Led the development and redevelopment of multiple modules in the Digital Logbooks and Workflow, which is
+  the product of your company using java, jsf, mssql.
+- Implemented a user authentication and security module that eliminated 100 percent paper logbook usage and
+  enabled sequential workflow of multiple jobs in the industry.
+- Configured encrypted database credentials inside the property files using Node.js API.
+- Developed a Java application for multiple clients to transfer data between PostgreSQL, MS SQL, MySQL,
+  OracleDB and MongoDB databases. The application was integrated with a scheduler to automate the data
+  transfer process at regular intervals.
+- Tech stack in use: Java, JSF, SQL, Node.js
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kashif-ahmad-373286164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kashif-ahmad-373286164" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kash15if" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kash15if" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/kash15if" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kash15if" height="30" width="40" /></a>
-</p>
+### Associate Software Developer
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://bulma.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**[July 2021 - June 2022]**
+
+- Led the transformation of a large JSF monolith to microservices using React and Spring Boot and implemented
+  real-time data visualization with web socket integration.
+- Utilized JavaScript’s event loop concept to optimize page load time. and by breaking down each component of
+  the page into separate responsibilities, page load time was reduced by around 50 percent (up to 90 percent for
+  larger datasets).
+- Created robust APIs in Node.js for end-to-end data transfer and client-facing REST APIs for seamless interaction
+  with the products.
+- Developed the backend for a PTC Thingworx platform for a client.
+- Tech stack used: React.js, Node.js, JavaScript, MsSQL, PostgreSQL , MongoDB, MySQL Socket.IO, Java,
+  Chart.js, Express.js, JSF, HTML, CSS, Mui.
+
+### Software Intern
+
+**[April 2021 - June 2021]**
+
+- Worked as an SQL developer.
+- Improved reporting rates by developing dashboard and reporting system on PTC Thingworx.
+- Tech stack used: JavaScript, SQL, PTC Thingworx.
+
+## Technologies I know
+
+- **Languages**: JavaScript, Java, HTML, CSS.
+- **Runtime & frameworks**: Node.js, Express.js, React, Vue, Mui, JSF-Primefaces.
+- **Databases**: SQL, MS SQL, PostgreSQL, PL/PGSQL, MongoDB.
+- **Cloud services**: AWS.
+- **Other tools**: Git, GitHub, VS Code, Socket.IO, Docker.
+
+## My coding profiles
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kash15if&show_icons=true&locale=en&layout=compact" alt="kash15if" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kash15if&" alt="kash15if" /></p>
+[![geeksforgeeks](https://img.shields.io/badge/geeksforgeeks-%40Kash15if-0c66c3.svg)](https://auth.geeksforgeeks.org/user/kash15if)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%40Kash15if-0c66c3.svg)](https://leetcode.com/Kash15if/)
+
+## Personal projects
