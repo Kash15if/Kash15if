@@ -3,13 +3,18 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40kash15if-239a3b.svg)](https://github.com/kash15if)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%40kash15if-0c66c3.svg)](https://www.linkedin.com/in/kash15if)
 
-Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Developer with around 2 years of experience in the FMCG sector, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.
+Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Developer with around 3 years of experience, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.
 
 ## My Experience
 
-### Software Developer
+### Analyst 
+#### Deloitte
+**[October 2023 - Present]**
 
-**[July 2022]**
+### Software Developer 
+#### Greenwave Solutions Pvt. Ltd.
+
+**[August 2022 - Ocotober 2023]**
 
 - Led the development and redevelopment of multiple modules in the Digital Logbooks and Workflow, which is
   the product of your company using java, jsf, mssql.
@@ -22,8 +27,9 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 - Tech stack in use: Java, JSF, SQL, Node.js
 
 ### Associate Software Developer
+#### Greenwave Solutions Pvt. Ltd.
 
-**[July 2021 - June 2022]**
+**[August 2021 - July 2022]**
 
 - Led the transformation of a large JSF monolith to microservices using React and Spring Boot and implemented
   real-time data visualization with web socket integration.
@@ -37,8 +43,9 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
   Chart.js, Express.js, JSF, HTML, CSS, Mui.
 
 ### Software Intern
+#### Greenwave Solutions Pvt. Ltd.
 
-**[April 2021 - June 2021]**
+**[April 2021 - July 2021]**
 
 - Worked as an SQL developer.
 - Improved reporting rates by developing dashboard and reporting system on PTC Thingworx.
