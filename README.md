@@ -10,8 +10,10 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 ### Analyst (Deloitte)
 **[October 2023 - Present]**
 
-### Software Developer (Greenwave Solutions Pvt. Ltd.)
 
+###Greenwave Solutions Pvt. Ltd. Kolkata
+
+#### Software Developer
 **[August 2022 - Ocotober 2023]**
 
 - Led the development and redevelopment of multiple modules in the Digital Logbooks and Workflow, which is
@@ -24,8 +26,7 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
   transfer process at regular intervals.
 - Tech stack in use: Java, JSF, SQL, Node.js
 
-### Associate Software Developer (Greenwave Solutions Pvt. Ltd.)
-
+#### Associate Software Developer (Greenwave Solutions Pvt. Ltd.)
 **[August 2021 - July 2022]**
 
 - Led the transformation of a large JSF monolith to microservices using React and Spring Boot and implemented
@@ -39,8 +40,7 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 - Tech stack used: React.js, Node.js, JavaScript, MsSQL, PostgreSQL , MongoDB, MySQL Socket.IO, Java,
   Chart.js, Express.js, JSF, HTML, CSS, Mui.
 
-### Software Intern (Greenwave Solutions Pvt. Ltd.)
-
+#### Software Intern (Greenwave Solutions Pvt. Ltd.)
 **[April 2021 - July 2021]**
 
 - Worked as an SQL developer.
