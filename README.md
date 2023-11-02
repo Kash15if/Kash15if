@@ -8,12 +8,12 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 ## My Experience
 
 ### Deloitte
-**[Analyst (October 2023 - Present))]**
+**Analyst [October 2023 - Present]**
 
 
 ### Greenwave Solutions Pvt. Ltd. Kolkata
 
-**[ Software Developer (August 2022 - Ocotober 2023)]**
+** Software Developer [August 2022 - Ocotober 2023] **
 - Led the development and redevelopment of multiple modules in the Digital Logbooks and Workflow, which is
   the product of your company using java, jsf, mssql.
 - Implemented a user authentication and security module that eliminated 100 percent paper logbook usage and
@@ -24,7 +24,7 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
   transfer process at regular intervals.
 - Tech stack in use: Java, JSF, SQL, Node.js
 
-**[Associate Software Developer (August 2021 - July 2022)]**
+** Associate Software Developer [August 2021 - July 2022] **
 - Led the transformation of a large JSF monolith to microservices using React and Spring Boot and implemented
   real-time data visualization with web socket integration.
 - Utilized JavaScript’s event loop concept to optimize page load time. and by breaking down each component of
@@ -36,7 +36,7 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 - Tech stack used: React.js, Node.js, JavaScript, MsSQL, PostgreSQL , MongoDB, MySQL Socket.IO, Java,
   Chart.js, Express.js, JSF, HTML, CSS, Mui.
 
-**[Software Intern (April 2021 - July 2021)]**
+** Software Intern [April 2021 - July 2021] **
 - Worked as an SQL developer.
 - Improved reporting rates by developing dashboard and reporting system on PTC Thingworx.
 - Tech stack used: JavaScript, SQL, PTC Thingworx.
