@@ -3,7 +3,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40kash15if-239a3b.svg)](https://github.com/kash15if)
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%40kash15if-0c66c3.svg)](https://www.linkedin.com/in/kash15if)
 
-Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Developer with more than 3 years of experience, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, Nest.js, gRPC, MicroServices, Spring Boot, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.
+Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Developer with around 4 years of experience, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, Nest.js, gRPC, MicroServices, Spring Boot, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.
 
 ## My Experience
 
