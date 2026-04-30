@@ -8,10 +8,24 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 
 ## My Experience
 
+
+### Nike
+**SWE 2 [July 2025 - Present]**
+- Developing Full Stack app using nest and react js.
+- Tech stack used:Node.js, Nest.js, gRPC, Postgres, aws.
+
+  
 ### Deloitte
-**Analyst [October 2023 - Present]**
-- Developing Backend Microservices for India's largest bank's banking portal.
-- Tech stack used:Node.js, Nest.js, gRPC, Postgres.
+**Software Engineer [October 2023 - July 2025]**
+- Developed a Spring Boot backend for a beverage company with database design, secure file uploads, and features
+for vendor billability, time tracking, and task management.
+- Developed a microservices backend for a major Indian bank using Nest.js, gRPC, Postgres, and Node.js.
+- Built an internal file-sharing system with React and Node.js; integrated AWS S3 for secure storage and SQL for
+efficient data handling.
+- Integrated Okta SSO into React and Node.js applications using the Okta SDK.
+- Created Power BI and Qlik Sense dashboards for Supply Chain Planning to track KPIs and inventory, enabling
+actionable insights.
+- Tech stack used:Node.js, Nest.js, gRPC, Postgres, Azure, AWS, RBAC, Power BI, Java, Sprint Boot.
 
 ### Greenwave Solutions Pvt. Ltd. Kolkata
 
