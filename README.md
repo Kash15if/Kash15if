@@ -10,22 +10,20 @@ Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack De
 
 
 ### Nike
-**SWE 2 [July 2025 - Present]**
-- Developing Full Stack app using nest and react js.
-- Tech stack used:Node.js, Nest.js, gRPC, Postgres, aws.
+**Software Engineer II [July 2025 - Present]**
+- Delivered Nike's enterprise Quote Management (costing) platform from greenfield to production for the FW Costing 2026 release: React UI (TanStack Query, Nx) shipped as a versioned package in 173 releases to two host apps, NestJS APIs on AWS Lambda and SQS, OpenSearch powering the search page, and RBAC/ABAC entitlements. Worked on the data migration and delta migration from the legacy system; closed 92 of 95 assigned issues, including Critical pre-go-live items.
+- Built the calculation engine to generate quotes from BOM and BOL data, handling multiple currencies, event contracts, a dark-deployment toggle for safe parallel-run validation against the legacy system, and idempotent ingestion.
+- Worked on architecture and owned schema design: designed the DynamoDB schema around the access patterns of upstream producers and downstream consumers, supporting 21M+ records in production. Built async, event-driven flows with idempotent writes, and added end-to-end traceability using correlation IDs, Splunk dashboards, and CloudWatch alarms across distributed services.
+- Designed the release strategy for a multi-app monorepo: semantic-release driven by commit conventions, with independent versioning and releases per app, and automated deployments using GitHub Actions.
+- Worked on Zynica, an AI platform that uses RAG to detect and auto-fix security vulnerabilities and raise automated pull requests. Built a RAG-based assistant that guides users through the costing platform and explains its data, and developed AI agents using LangGraph.
+- Built Sprint Retro Board, a Kanban-style sprint retro platform with RetroBot (Databricks AI) that summarises boards, suggests action checklists, and publishes to Confluence.
 
-  
+
 ### Deloitte
 **Software Engineer [October 2023 - July 2025]**
-- Developed a Spring Boot backend for a beverage company with database design, secure file uploads, and features
-for vendor billability, time tracking, and task management.
-- Developed a microservices backend for a major Indian bank using Nest.js, gRPC, Postgres, and Node.js.
-- Built an internal file-sharing system with React and Node.js; integrated AWS S3 for secure storage and SQL for
-efficient data handling.
-- Integrated Okta SSO into React and Node.js applications using the Okta SDK.
-- Created Power BI and Qlik Sense dashboards for Supply Chain Planning to track KPIs and inventory, enabling
-actionable insights.
-- Tech stack used:Node.js, Nest.js, gRPC, Postgres, Azure, AWS, RBAC, Power BI, Java, Sprint Boot.
+- Led development and planned the architecture and schema design of an event platform for a beverage company's distributors in Germany and Belgium, covering event selling and advertising, image uploads, sponsor management, vendor billability, and time tracking for contract workers, using Azure, Spring Boot, React.js, and MySQL.
+- Developed a microservices backend for a major Indian bank, delivering notifications and feature rollouts, and implementing in-app walkthroughs after major releases, using Nest.js, gRPC, Postgres, and Node.js.
+- Built Power BI and Qlik Sense dashboards for Supply Chain Planning, combining data from multiple sources to track KPIs and inventory.
 
 ### Greenwave Solutions Pvt. Ltd. Kolkata
 
@@ -41,11 +39,11 @@ actionable insights.
 
 ## Technologies I know
 
-- **Languages**: JavaScript, Java, HTML, CSS.
-- **Runtime & frameworks**: Node.js, Nest.js, Microservices, Spring Boot, Express.js, React.js, Vue.js, Mui, JSF-Primefaces.
-- **Databases**: SQL, MS SQL, PostgreSQL, PL/PGSQL, MongoDB.
-- **Cloud services**: AWS.
-- **Other tools**: Git, Jira, GitHub, VS Code, Socket.IO, Docker.
+- **Languages**: Java, JavaScript, TypeScript.
+- **Frameworks**: Spring Boot, NestJS, Node.js, React.js, TanStack Query, Vue.js, Material UI, ShadCN UI, Nx.
+- **Databases**: DynamoDB, Amazon RDS, OpenSearch, PostgreSQL, SQL.
+- **Cloud & DevOps**: AWS Lambda, SQS, S3, Terraform, Docker, Jenkins, GitHub Actions, semantic-release, Azure, Blob Storage.
+- **Tools & Others**: System Design, Async Distributed Systems, Event-Driven Architecture, Data Modeling, Data Migration, Observability (Splunk, CloudWatch, Dynatrace), Distributed Tracing, RAG, LangGraph, LLM Agents, MCP, Databricks, gRPC, Redux, JWT, TypeORM, Jest, Playwright, SonarQube, Supertest, RBAC, ABAC, Microservices, Okta SSO, Socket.io, Git, Data Structures & Algorithms.
 
 ## My coding profiles
 
