@@ -4,7 +4,11 @@
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%40kash15if-0c66c3.svg)](https://www.linkedin.com/in/kash15if)
 [![Leetcode](https://img.shields.io/badge/Leetcode-@Kash15if-2AC3FF)](https://leetcode.com/u/kash15if/)
 
-Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Developer with more than 4 years of experience, I bring a unique combination of technical expertise and industry knowledge to the table. With a strong tech stack that includes React.js, Node.js, Nest.js, gRPC, MicroServices, Spring Boot, MongoDB, PostgreSQL, and Java, I am passionate about problem-solving and have built several cool projects to solve real-world issues.
+Hi, I am [@Kashif Ahmad](https://github.com/kash15if). 👋 I am a Full Stack Software Engineer with 5+ years of experience across retail, enterprise services and manufacturing. Today I work at Nike, where I build production-ready apps, microservices, distributed systems and design-system components.
+
+I love working with complex systems, handling large amounts of data, and running migrations. I enjoy using AI tools and agents inside the apps I build, and building apps that help in my daily life.
+
+**Core stack:** TypeScript, NestJS, React.js, Java, Spring Boot, AWS, DynamoDB, PostgreSQL, Terraform.
 
 ## My Experience
 
